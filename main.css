@@ -1,0 +1,53 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+    font-size: 30px;
+    background-image: url("ano.webp");
+    background-size:cover;
+    padding-top:20px auto;
+}
+.wrapper{
+	margin: 50px auto;
+	width:900px;
+}
+	
+.main h5{
+	word-spacing: 90px;
+
+	
+
+}
+.box{
+	width:900px;
+	float:left;
+	
+	height: 500px;
+
+}
+.box img{
+	width: 350px;
+	float:left;
+	border-top:30px;
+	margin:10px auto;
+	padding-left: 10px;
+	border-radius: 50%;
+
+}
+.box h3{
+	padding-top: 65px;
+	text-align: center;
+	text-shadow: 2px 2px 4px grey;
+
+}
+.box h5{
+	text-align: center;
+
+}
+
+p{
+	
+	width:600px auto;
+	margin:60px;
+}
